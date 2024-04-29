@@ -2,7 +2,7 @@
 - 👀 I’m interested in backend development
 - 🌱 I’m currently learning microservies
 - 💞️ I’m looking to collaborate on cloud native deveopment
-- 📫 How to reach me: agboola Michael @linkedin
+- 📫 How to reach me: sirmike @linkedin
 
 <!---
 Holarmc/Holarmc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
